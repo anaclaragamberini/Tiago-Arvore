@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class ArvoreEmNivel {
+public class ArvoreEmNivelSemRecursividade {
     No raiz;
     
 
