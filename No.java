@@ -1,9 +1,9 @@
-class No {
-    String dados;
+public class No {
+    Integer dados;
     No esquerda, direita;
+    int altura = 1;
 
-    public No (String dados){
+    public No(Integer dados) {
         this.dados = dados;
-        esquerda = direita = null;
     }
 }
